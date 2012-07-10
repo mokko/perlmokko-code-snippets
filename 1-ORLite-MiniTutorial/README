@@ -1,0 +1,6 @@
+tests demonstrate use CRUD interface Dedupe::DB::File and ORLite's automatic interface
+
+>cd 1-ORLite-MiniTutorial
+>prove -v -l 
+or
+>prove -v -l t/2-CRUD.t
